@@ -26,12 +26,12 @@ import math
 import pdb
 
 from youtube_transcript_api import YouTubeTranscriptApi
-openai.api_key = ''  # Replace with your actual OpenAI API key
+openai.api_key = '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'  # Replace with your actual OpenAI API key
 
 """Cell 3: Download YouTube Video function"""
 
-def download_video(url, filename):
-    yt = YouTube(url)
+def download_video(https://youtu.be/9O54tXN6160?si=Fwzy5nW653gBsoJX, יצירת מדבקות לוואטסאפ באמצעות בינה מלאכותית (AI) עם כלים חינמיים בלבד - המדריך המקיף - שרית שובל):
+    yt = YouTube(https://youtu.be/9O54tXN6160?si=Fwzy5nW653gBsoJX)
     video = yt.streams.filter(file_extension='mp4').first()
 
     # Download the video
