@@ -26,7 +26,7 @@ import math
 import pdb
 
 from youtube_transcript_api import YouTubeTranscriptApi
-openai.api_key = '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'  # Replace with your actual OpenAI API key
+openai.api_key = ''  # Replace with your actual OpenAI API key
 
 """Cell 3: Download YouTube Video function"""
 
